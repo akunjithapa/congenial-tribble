@@ -12,7 +12,7 @@ namespace ns {
     };
 } // namespace ns
 
-ns::person p = {"Ned Flanders", "744 Evergreen Terrace", 60};
+ns::person p = {"Dennis Bowman", "1040 Shady Terrace", 70};
 
 // convert to JSON: copy each value into the JSON object
 json j;
