@@ -22,7 +22,7 @@ by executing all operations from the patch.
 
 ## Diff
 
-The library can also calculate a JSON patch (i.e., a **diff**) given two JSON values.
+The lib can also calculate a JSON patch (i.e., a **diff**) given two JSON values.
 
 !!! success "Invariant"
 
