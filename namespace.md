@@ -7,7 +7,7 @@ types.
 
 ## Structure
 
-The complete default namespace name is derived as follows:
+The complete default namespace name is derived as follows
 
 - The root namespace is always `nlohmann`.
 - The inline namespace starts with `json_abi` and is followed by several optional ABI tags according to the value of
