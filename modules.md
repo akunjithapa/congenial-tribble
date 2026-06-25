@@ -1,4 +1,4 @@
-# Modules
+# Module
 
 This library has experimental support for C++ modules, introduced in C++20. The library can be imported by writing `import nlohmann.json;` instead of `#include <nlohmann/json.hpp>`. 
 
