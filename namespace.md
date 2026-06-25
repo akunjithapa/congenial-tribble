@@ -1,4 +1,4 @@
-# `nlohmann` Namespace
+# `nlohmann`
 
 The 3.11.0 release introduced an
 [inline namespace](https://en.cppreference.com/w/cpp/language/namespace#Inline_namespaces) to allow different parts of
