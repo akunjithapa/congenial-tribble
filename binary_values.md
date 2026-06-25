@@ -13,13 +13,6 @@ serialized JSON text if they have been created manually or via a binary format.
 ```mermaid
 classDiagram
 
-class binary_t ["json::binary_t"] {
-    +void set_subtype(std::uint64_t subtype)
-    +void clear_subtype()
-    +std::uint64_t subtype() const
-    +bool has_subtype() const
-}
-
 class vector ["std::vector<uint8_t>"]
 
 vector <|-- binary_t
