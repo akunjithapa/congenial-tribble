@@ -1,8 +1,9 @@
 # Binary Values
 
-The library implements several [binary formats](binary_formats/index.md) that encode JSON in an efficient way. Most of
+The lib implements several [binary formats](binary_formats/index.md) that encode JSON in an efficient way. Most of
 these formats support binary values; that is, values that have semantics defined outside the library and only define a
 sequence of bytes to be stored.
+
 
 JSON itself does not have a binary value. As such, binary values are an extension that this library implements to store
 values received by a binary format. Binary values are never created by the JSON parser and are only part of a
